@@ -101,6 +101,13 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
 fi
 
 export MC_SKIN=$HOME/.config/mc/sol.ini
+# Don't define aliases in plain Bourne shell
+[ -n "${BASH_VERSION}${KSH_VERSION}${ZSH_VERSION}" ] || return 0
+alias mc='. /usr/lib/mc/mc-wrapper.sh'
 
 PATH="/opt/maven/bin:$PATH"
 export PATH
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
