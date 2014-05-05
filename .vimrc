@@ -26,6 +26,14 @@ Bundle 'othree/html5.vim'
 Bundle 'L9'
 Bundle 'IndexedSearch'
 
+Bundle 'benmills/vimux'
+Bundle 'jgdavey/vim-turbux'
+" Bundle 'thoughtbot/vim-rspec'
+" Bundle 'jgdavey/tslime.vim'
+
+Bundle 'techlivezheng/vim-plugin-minibufexpl'
+
+Bundle 'bclose'
 
 "Bundle 'skalnik/vim-vroom' "unit testing for ruby
 "Bundle 'mattn/webapi-vim' 
@@ -74,8 +82,29 @@ set pastetoggle=<F2>
 
 nnoremap <space> za
 
+let g:miniBufExplMapCTabSwitchBufs = 1 "Map control-tab and control-shift-tab for switching between buffers
+let g:miniBufExplUseSingleClick = 1 "Change buffer with single click on a buffer
+let g:miniBufExplTabWrap = 1 " make tabs show complete (no broken on two lines)
+let g:miniBufExplMaxSize = 1 " <max lines: defualt 0> setting this to 0 will mean the window gets as big as needed to fit all your buffers.
+
+let g:rspec_command = 'call Send_to_Tmux("rspec {spec}\n")'
+
+" vim-rspec mappings
+"map <Leader>t :call RunCurrentSpecFile()<CR>
+"map <Leader>s :call RunNearestSpec()<CR>
+"map <Leader>l :call RunLastSpec()<CR>
+"map <Leader>a :call RunAllSpecs()<CR>
+
+" fix annoying SHIFT key
 :command WQ wq
 :command Wq wq
 :command W w
 :command Q q
+
+" MBE mappings
+noremap ` :MBEbn<CR>
+noremap ~ :MBEbp<CR>
+
+let g:ruby_debugger_debug_mode = 1
+let g:ruby_debugger_progname = 'vim'
 
