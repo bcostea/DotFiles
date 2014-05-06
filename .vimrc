@@ -108,3 +108,4 @@ noremap ~ :MBEbp<CR>
 let g:ruby_debugger_debug_mode = 1
 let g:ruby_debugger_progname = 'vim'
 
+map <CR> <Plug>SendTestToTmux
