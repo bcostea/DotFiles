@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=Thunar
+Name[en_US]=thunar
+Exec=thunar
+Name=thunar
+Icon=gnome-panel-launcher

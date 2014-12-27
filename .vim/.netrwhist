@@ -1,11 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/bogdan/Projects/directory/src/main/java/us/costea/directory/domain'
-let g:netrw_dirhist_2='/home/bogdan/.config/chromium/Default'
-let g:netrw_dirhist_3='/home/bogdan/.pulse'
-let g:netrw_dirhist_4='/home/bogdan'
-let g:netrw_dirhist_5='/home/bogdan/Backup/myconfig/.config/terminator'
-let g:netrw_dirhist_6='/home/bogdan/.vim'
-let g:netrw_dirhist_7='/home/bogdan'
-let g:netrw_dirhist_8='/home/bogdan/.vim'
-let g:netrw_dirhist_9='/home/bogdan/.config/tmux'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/bogdan/Projects/Minion/code/config'
+let g:netrw_dirhist_2='/home/bogdan/Projects/Minion/code'
+let g:netrw_dirhist_3='/data/Dropbox/Projects/MyDeBe/config'
