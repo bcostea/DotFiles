@@ -6,7 +6,7 @@ color solarized
 set background=dark
 highlight CursorColumn ctermbg=234                " bg color after 80 cols
 highlight CursorLine ctermbg=3 term=none cterm=none  " bg bgcolor for current line
-highlight WhitespaceEOL ctermbg=DarkYellow 
+highlight WhitespaceEOL ctermbg=DarkYellow
 highlight NonText guibg=#060606
 match WhitespaceEOL /\s\+\%#\@<!$/
 set t_Co=256                                      " 256 colors in terminal

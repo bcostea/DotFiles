@@ -1,0 +1,306 @@
+{
+  "jobs view column layout3": {
+    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfQAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6A==", 
+    "__class__": "bytearray"
+  }, 
+  "cover_settings_dialog_geom": {
+    "__value__": "AdnQywABAAAAAADmAAAAbAAABBkAAALuAAAA5wAAAH8AAAQYAAAC7AAAAAAAAA==", 
+    "__class__": "bytearray"
+  }, 
+  "duplicates-question-dialog-geometry": {
+    "__value__": "AdnQywACAAAAAAF0AAAAvgAAA4wAAAJMAAABdQAAANEAAAOLAAACSgAAAAAAAAAABQA=", 
+    "__class__": "bytearray"
+  }, 
+  "cover_generation_save_settings_for_future": true, 
+  "quick_start_guide_added": true, 
+  "grid view visible": false, 
+  "advanced search dialog current tab": 1, 
+  "metasingle_window_geometry3": {
+    "__value__": "AdnQywACAAAAAACEAAAAJgAABGMAAALYAAAAhQAAADkAAARiAAAC1gAAAAAAAAAABQA=", 
+    "__class__": "bytearray"
+  }, 
+  "preferences dialog geometry": {
+    "__value__": "AdnQywABAAAAAACvAAAAGwAABFIAAAL/AAAAsAAAAC4AAARRAAAC/QAAAAAAAA==", 
+    "__class__": "bytearray"
+  }, 
+  "diff_dialog_geom": {
+    "__value__": "AdnQywABAAAAAACkAAAAUAAABFsAAALuAAAApQAAAGMAAARaAAAC7AAAAAAAAA==", 
+    "__class__": "bytearray"
+  }, 
+  "book_info_dialog_layout": [
+    {
+      "__value__": "AdnQywABAAAAAAEhAAAAUQAAA94AAAL5AAABIgAAAHIAAAPdAAAC9wAAAAAAAA==", 
+      "__class__": "bytearray"
+    }, 
+    {
+      "__value__": "AAAA/wAAAAEAAAACAAABXgAAAXABAAAABAEAAAABAA==", 
+      "__class__": "bytearray"
+    }
+  ], 
+  "card_a_view books view state": {
+    "last_modified_injected": true, 
+    "column_alignment": {
+      "timestamp": "center", 
+      "size": "center"
+    }, 
+    "hidden_columns": [], 
+    "column_sizes": {
+      "title": 56, 
+      "inlibrary": 95, 
+      "authors": 94, 
+      "collections": 105, 
+      "size": 55, 
+      "timestamp": 72
+    }, 
+    "languages_injected": true, 
+    "column_positions": {
+      "title": 1, 
+      "inlibrary": 0, 
+      "authors": 2, 
+      "collections": 5, 
+      "size": 4, 
+      "timestamp": 3
+    }, 
+    "sort_history": [
+      [
+        "timestamp", 
+        false
+      ]
+    ]
+  }, 
+  "bulk_metadata_window_tab": 0, 
+  "replace_scene_breaks_history": [
+    "", 
+    "<hr />", 
+    "\u2217 \u2217 \u2217", 
+    "\u2022 \u2022 \u2022", 
+    "\u2666 \u2666 \u2666", 
+    "\u2020 \u2020", 
+    "\u2021 \u2021 \u2021", 
+    "\u221e \u221e \u221e", 
+    "\u00a4 \u00a4 \u00a4"
+  ], 
+  "cover_browser_splitter_vertical_state": [
+    false, 
+    300
+  ], 
+  "book_details_splitter_horizontal_state": [
+    true, 
+    283
+  ], 
+  "memory_view books view state": {
+    "last_modified_injected": true, 
+    "column_alignment": {
+      "timestamp": "center", 
+      "size": "center"
+    }, 
+    "hidden_columns": [], 
+    "column_sizes": {
+      "title": 350, 
+      "inlibrary": 95, 
+      "authors": 183, 
+      "collections": 105, 
+      "size": 55, 
+      "timestamp": 100
+    }, 
+    "languages_injected": true, 
+    "column_positions": {
+      "title": 1, 
+      "inlibrary": 0, 
+      "authors": 2, 
+      "collections": 5, 
+      "size": 4, 
+      "timestamp": 3
+    }, 
+    "sort_history": [
+      [
+        "timestamp", 
+        false
+      ]
+    ]
+  }, 
+  "metadata_single_gui_geom": {
+    "__value__": "AdnQywACAAAAAADWAAAAcwAABCkAAALfAAAA1wAAAIYAAAQoAAAC3QAAAAAAAAAABQA=", 
+    "__class__": "bytearray"
+  }, 
+  "bulk_metadata_window_geometry": {
+    "__value__": "AdnQywABAAAAAACeAAAAUgAABGEAAALrAAAAnwAAAGUAAARgAAAC6QAAAAAAAA==", 
+    "__class__": "bytearray"
+  }, 
+  "convert_single_dialog_geom": {
+    "__value__": "AdnQywACAAAAAABsAAAAGwAABG0AAALrAAAAbQAAAC4AAARsAAAC6QAAAAAAAAAABQA=", 
+    "__class__": "bytearray"
+  }, 
+  "show_vl_tabs": false, 
+  "tag_browser_splitter_horizontal_state": [
+    true, 
+    165
+  ], 
+  "jobs_dialog_geometry": {
+    "__value__": "AdnQywACAAAAAAAAAAAAgQAAAnoAAALBAAAAAQAAAKIAAAJ5AAACvwAAAAAAAAAABQA=", 
+    "__class__": "bytearray"
+  }, 
+  "custom_colors_for_color_dialog": [
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ]
+  ], 
+  "previous_sort_order_BooksView": {
+    "title": true, 
+    "#next": true, 
+    "#read": true, 
+    "ondevice": false, 
+    "timestamp": false, 
+    "authors": true, 
+    "series": true
+  }, 
+  "filename_pattern_history": [
+    "(?P<author>.+) - (?P<title>[^_]+)", 
+    "(?P<author>[^_]+) - (?P<title>.+) ", 
+    "(?P<title>.+) - (?P<author>[^_]+)", 
+    "(?P<title>.+)", 
+    "(?P<author>[^_-]+) -?\\s*(?P<series>[^_0-9-]*)(?P<series_index>[0-9]*)\\s*-\\s*(?P<title>[^_].+) ?"
+  ], 
+  "library_usage_stats": {
+    "/home/bogdan/Documents/Books": 36
+  }, 
+  "single-cover-fetch-dialog-geometry": {
+    "__value__": "AdnQywACAAAAAADWAAAAcwAABCkAAALfAAAA1wAAAIYAAAQoAAAC3QAAAAAAAAAABQA=", 
+    "__class__": "bytearray"
+  }, 
+  "convert_bulk_dialog_geom": {
+    "__value__": "AdnQywACAAAAAAB/AAAANAAABIAAAAMEAAAAgAAAAEcAAAR/AAADAgAAAAAAAAAABQA=", 
+    "__class__": "bytearray"
+  }, 
+  "questions_to_auto_skip": [
+    "auto_convert_before_send"
+  ], 
+  "preferences_window_geometry": {
+    "__value__": "AdnQywABAAAAAACvAAAAGwAABFIAAAMEAAAAsAAAADwAAARRAAADAgAAAAAAAA==", 
+    "__class__": "bytearray"
+  }, 
+  "card_b_view books view state": {
+    "last_modified_injected": true, 
+    "column_alignment": {
+      "timestamp": "center", 
+      "size": "center"
+    }, 
+    "hidden_columns": [], 
+    "column_sizes": {
+      "title": 56, 
+      "inlibrary": 95, 
+      "authors": 94, 
+      "collections": 105, 
+      "size": 55, 
+      "timestamp": 72
+    }, 
+    "languages_injected": true, 
+    "column_positions": {
+      "title": 1, 
+      "inlibrary": 0, 
+      "authors": 2, 
+      "collections": 5, 
+      "size": 4, 
+      "timestamp": 3
+    }, 
+    "sort_history": [
+      [
+        "timestamp", 
+        false
+      ]
+    ]
+  }
+}

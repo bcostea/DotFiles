@@ -1,0 +1,167 @@
+{
+  "saved_seaches_state": {
+    "where": "current", 
+    "direction": "down", 
+    "wrap": true
+  }, 
+  "reports-ui-state": {}, 
+  "css-editor-state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAD9AAAAAAAAAlMAAAG7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAF8AYgBhAHIBAAAAvP////8AAAAAAAAAAA=="
+  }, 
+  "check-book-splitter-state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAEAAAACAAAARgAAAEYAAAAABAEAAAABAA=="
+  }, 
+  "xml-editor-state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAD9AAAAAAAAAlEAAAG7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAF8AYgBhAHIBAAAAvP////8AAAAAAAAAAA=="
+  }, 
+  "image-editor-state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAD9AAAAAAAAAlEAAAG7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAACAAZQBkAGkAdAAtAGEAYwB0AGkAbwBuAHMALQBiAGEAcgEAAABS/////wAAAAAAAAAAAAAAHABpAG0AYQBnAGUAXwBpAG4AZgBvAF8AYgBhAHIBAAABNv////8AAAAAAAAAAA=="
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAADiAAACVfwCAAAABPsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAAE0AAAJVAAAAWQD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFkA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIkA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAesA////AAAAAQAAAY0AAAJV/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAATQAAAlUAAABAAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABZAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAApAP///wAAAlMAAAJVAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABOP////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+  }, 
+  "text-editor-state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAD9AAAAAAAAAlEAAAG7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAF8AYgBhAHIBAAAAvP////8AAAAAAAAAAA=="
+  }, 
+  "html-editor-state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAD9AAAAAAAAAlMAAAG7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAF8AYgBhAHIBAAAAvP////8AAAAAAAAAAAAAAB4AaAB0AG0AbABfAGYAbwByAG0AYQB0AF8AYgBhAHIBAAABnv////8AAAAAAAAAAA=="
+  }, 
+  "import-foreign-geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAGNAAABIAAAA3IAAAHtAAABjgAAATMAAANxAAAB6wAAAAAAAAAABQA="
+  }, 
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAAAAAAAGwAABM8AAAL1AAAAAQAAADwAAATOAAAC8wAAAAAAAAAABQA="
+  }, 
+  "toc_editor_window_geom": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywABAAAAAACMAAAAUgAABEMAAALcAAAAjQAAAGUAAARCAAAC2gAAAAAAAA=="
+  }, 
+  "recent-books": [
+    "/home/bogdan/Documents/Books/Stanislaw Lem/Solaris (998)/Solaris - Stanislaw Lem.epub", 
+    "/home/bogdan/Documents/Books/Stanislaw Lem/The Cyberiad (1002)/The Cyberiad - Stanislaw Lem.epub", 
+    "/home/bogdan/Downloads/The_Fortune_Cookie_Principle.epub", 
+    "/tmp/11245-EPB-ENG.EPUB", 
+    "/home/bogdan/Desktop/pmarca_startup.epub", 
+    "/home/bogdan/Temp/2_Perilous_Shield_2013_The_Lost_Stars_Jack_Campbell.epub", 
+    "/home/bogdan/Downloads/Mega Science Fiction and Fantasy Book Collection/Asher, Neal/Black Rat - Neal Asher.epub", 
+    "/home/bogdan/Documents/Books/John Scalzi/Alien Animal Encounters (955)/Alien Animal Encounters - John Scalzi.epub", 
+    "/home/bogdan/Temp/Books/Various/A Crack in the Sky (Greenhouse Chronicle - Mark Peter Hughes.epub", 
+    "/home/bogdan/Temp/Books/Frederik Pohl - Heechee/Frederik Pohl - Heechee 07 - Heechee Short Stories.epub"
+  ], 
+  "find-widget-state": {
+    "mode": "normal", 
+    "case_sensitive": false, 
+    "wrap": true, 
+    "direction": "down", 
+    "dot_all": false, 
+    "where": "current"
+  }, 
+  "custom_colors_for_color_dialog": [
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ]
+  ], 
+  "search-panel-visible": false
+}

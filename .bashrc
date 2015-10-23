@@ -120,3 +120,7 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
 unset GNOME_KEYRING_CONTROL
 
+
+export EC2_HOME=/usr/local/ec2/ec2-api-tools-1.7.5.1
+export JAVA_HOME='/usr/lib/jvm/java-8-oracle/jre'
+export PATH=$PATH:$EC2_HOME/bin
